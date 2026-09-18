@@ -41,7 +41,7 @@ opencv-python
 mediapipe
 
 # === PDF Generation ===
-reportlab==4.2.5
+reportlab==4.5.1
 pypdf
 python-docx
 faiss-cpu
