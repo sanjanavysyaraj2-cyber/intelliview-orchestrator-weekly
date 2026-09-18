@@ -30,7 +30,7 @@ opentelemetry-instrumentation-celery
 opentelemetry-exporter-otlp-proto-grpc
 # === Dev / Test ===
 pytest==8.3.4
-pytest-asyncio==0.25.0
+pytest-asyncio==0.26.0
 pytest-mock==3.15.1
 pytest-cov==6.3.0
 testcontainers
